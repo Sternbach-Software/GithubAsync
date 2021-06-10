@@ -1,10 +1,10 @@
 package contributors
 
-fun main() {
-    setDefaultFontSize(18f)
-    ContributorsUI().apply {
-        pack()
-        setLocationRelativeTo(null)
-        isVisible = true
-    }
+fun main(args: Array<String>) {
+//    setDefaultFontSize(18f)
+//    ContributorsUI().apply {
+//        pack()
+//        setLocationRelativeTo(null)
+//        isVisible = true
+//    }
 }
